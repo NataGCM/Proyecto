@@ -12,7 +12,7 @@ presentan las principales pantallas:
 
    Cuando el usuario ingrese a la aplicaicón verá un menú de servicios entre los que podrá elegir.
 
-   ![menú de servicios](images/interfaz1.png)
+   ![menú de servicios](imagenes/interfaz1.png)
 
 2. Episodios de un Podcast
 
