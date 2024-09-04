@@ -13,15 +13,14 @@ presentan las principales pantallas:
 
    ![menú de servicios](imagenes/interfaz1.png)
 
-2. Episodios de un Podcast
+2. Ubicación
 
-   Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
-   reproducirlos.
+   Al seleccionar un servicio el usuario verá un mapa con los negocios mas cercanos a su ubicación actual.
 
    ![Lista de episodios](imagenes/interfaz2.png)
 
-3. Búsqueda podcasts
+3. Mensajería
 
-   Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
+   Adicionalmente el usuario podrá seleccionar una empresa y contactarse con ella para información personalizada.
 
    ![Búsqueda](imagenes/interfaz3.png)
