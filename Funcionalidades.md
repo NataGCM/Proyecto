@@ -1,6 +1,9 @@
 Funcionalidades de la aplicación
-Restricciones técnicas
+
+Restricciones técnicas:
+
 Esta aplicación funcionará en dispositivos Android con sistema operativo versión 10 o superior.
+
 
 La información usada en la aplicación es de uso gratuito.
 
