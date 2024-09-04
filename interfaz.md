@@ -3,8 +3,7 @@
 La interfaz de usuario de la aplicación ConectLocal esta inspirada en la interfaz de usuario de
 aplicaicones similares.
 
-El diseño completo esta disponible
-en [Figma](https://www.figma.com/design/QbyfAC4kDzlfa9X1VdgjlC/Untitled?node-id=0-1&node-type=CANVAS&t=qf5PilVE82HXPxsT-0)
+El diseño completo esta disponible en [Figma](https://www.figma.com/design/QbyfAC4kDzlfa9X1VdgjlC/Untitled?node-id=0-1&node-type=CANVAS&t=qf5PilVE82HXPxsT-0)
 A continuación se
 presentan las principales pantallas:
 
