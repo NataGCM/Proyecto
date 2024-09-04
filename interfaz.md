@@ -9,7 +9,7 @@ presentan las principales pantallas:
 
 1. Home 
 
-   Cuando el usuario ingrese a la aplicaicón verá un menú de servicios entre los que podrá elegir.
+   Cuando el usuario ingrese a la aplicación verá un menú de servicios entre los que podrá elegir.
 
    ![menú de servicios](imagenes/interfaz1.png)
 
