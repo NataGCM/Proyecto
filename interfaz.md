@@ -18,10 +18,10 @@ presentan las principales pantallas:
    Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
    reproducirlos.
 
-   ![Lista de episodios](images/EpisodesPlaying.png)
+   ![Lista de episodios](imagenes/interfaz2.png)
 
 3. Búsqueda podcasts
 
    Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
 
-   ![Búsqueda](images/Search.png)
+   ![Búsqueda](imagenes/interfaz3.png)
