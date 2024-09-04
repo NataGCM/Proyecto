@@ -12,5 +12,7 @@ de niños, clases particulares, entre otros.
 ### Aplicaciones similares
 
 -[Darrot]https://play.google.com/store/apps/details?id=com.senneleys.vends&hl=es_CO&pli=1
+
 -[Yelp]https://play.google.com/store/search?q=yelp&c=apps&hl=es_CO
+
 -[OpenTable]https://play.google.com/store/apps/details?id=com.opentable&hl=es_CO
