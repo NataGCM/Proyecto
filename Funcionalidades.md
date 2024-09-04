@@ -7,7 +7,7 @@ Esta aplicación funcionará en dispositivos Android con sistema operativo versi
 
 La información usada en la aplicación es de uso gratuito.
 
-Cualquier información enviada por el usuario será almacenada de forma local en el dispositivo.
+
 
 Funcionalidades de usuario
 UANCasts le permitirá al usuario encontrar y contratar servicios locales de manera rápida y eficiente. 
